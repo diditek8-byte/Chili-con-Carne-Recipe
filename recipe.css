@@ -42,7 +42,7 @@
     grid-area: ingredients;
 }
 
-.chillimix-card, .chillimix-card-top {
+.chilimix-card, .chilimix-card-top {
     grid-area: chillimix;
 }
 
